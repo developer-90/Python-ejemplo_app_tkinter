@@ -1,2 +1,2 @@
 # ejemplo_app_tkinter
-Aplicacion python con tkinter CRUD
+Aplicacion Python usando tkinter para hacer CRUD
